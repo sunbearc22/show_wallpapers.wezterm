@@ -1,6 +1,7 @@
-#show_wallpapers.wezterm
-- Lets you show your wallpapers in WezTerm and toggle their change forward and backward.
+# show_wallpapers.wezterm
+- Shows your wallpapers in WezTerm and lets you toggle their change forward and backward.
 ![toggle_wallpapers](images/toggle_wallpapers.gif)
+
 - Lets you brighten and dim the wallpaper.
 ![toggle_brightness](images/toggle_brightness.gif)
 
